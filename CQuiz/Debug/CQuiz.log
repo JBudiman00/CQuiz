@@ -1,0 +1,4 @@
+﻿  CQuiz.cpp
+C:\Dev\C Projects\CQuiz\CQuiz\CQuiz.cpp(29,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Dev\C Projects\CQuiz\CQuiz\CQuiz.cpp(85,9): warning C4101: 'test': unreferenced local variable
+  CQuiz.vcxproj -> C:\Dev\C Projects\CQuiz\Debug\CQuiz.exe
